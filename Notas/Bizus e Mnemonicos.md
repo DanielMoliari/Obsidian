@@ -1,0 +1,1 @@
+![[Bizus e Mnemonicos.pdf]]
