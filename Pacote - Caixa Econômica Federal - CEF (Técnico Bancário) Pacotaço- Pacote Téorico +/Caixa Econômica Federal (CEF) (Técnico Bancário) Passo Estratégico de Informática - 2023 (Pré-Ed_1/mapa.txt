@@ -1,0 +1,17 @@
+Curso: Caixa Econômica Federal (CEF) (Técnico Bancário) Passo Estratégico de Informática - 2023 (Pré-Ed_1
+   Aula: Aula 01   >   Aula 00 - 1 - Edição de textos (ambientes Microsoft  Office - Word - versão O365).
+   Aula: Aula 02   >   Aula Extra - 1 - Edição de planilhas (ambientes Microsoft Office - Excel - versão O365).
+   Aula: Aula 03   >   Aula 01 - Simulado.
+   Aula: Aula 04   >   Aula 02 - 1 - Edição de apresentações (ambientes  Microsoft Office - PowerPoint - versão O365).
+   Aula: Aula 05   >   Aula 03 - 2 - Segurança da informação: fundamentos, conceitos e mecanismos de segurança; Segurança cibernética: Resolução CMN nº 4893, de 26 de fevereiro de 2021.
+   Aula: Aula 06   >   Aula 04 - Simulado.
+   Aula: Aula 07   >   Aula 05 - 3 - Conceitos de organização e de gerenciamento de informações, arquivos,  pastas e programas.
+   Aula: Aula 08   >   Aula 06 - 4 - Redes de computadores: Conceitos básicos, ferramentas, aplicativos e procedimentos de Internet e intranet.
+   Aula: Aula 09   >   Aula 07 - Simulado.
+   Aula: Aula 10   >   Aula 08 - 5 - Navegador Web (Microsoft Edge versão 91  e Mozilla Firefox versão 78 ESR).
+   Aula: Aula 11   >   Aula 09 - 6 - Correio eletrônico, grupos de discussão, fóruns e wikis. 7 - Redes Sociais (Twitter, Facebook, Linkedin, WhatsApp, YouTube,  Instagram e Telegram).
+   Aula: Aula 12   >   Aula 10 - Simulado.
+   Aula: Aula 13   >   Aula 11 - 8 - Visão geral sobre sistemas de suporte à  decisão e inteligência de negócio.
+   Aula: Aula 14   >   Aula 12 - 9 - Conceitos de tecnologias e ferramentas multimídia, de reprodução de áudio e vídeo. 10 - Ferramentas de produtividade e trabalho a distância (Microsoft Teams, Cisco Webex, Google Hangout, Zoom, Google Drive e  Skype).
+   Aula: Aula 15   >   Aula 13 - Simulado.
+   Aula: Aula 16   >   Aula 14 - Simulado final.

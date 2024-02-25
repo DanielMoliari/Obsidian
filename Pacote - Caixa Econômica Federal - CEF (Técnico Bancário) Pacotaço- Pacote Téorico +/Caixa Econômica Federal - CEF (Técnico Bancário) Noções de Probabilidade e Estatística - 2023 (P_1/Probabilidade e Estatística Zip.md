@@ -1,0 +1,281 @@
+#material
+
+Curso: Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1
+   Aula: Aula 01   >   Aula 00 - Apresentação de dados
+       01   >   Introdução
+       02   >   Apresentação de Dados - Conceitos Iniciais
+       03   >   Método Experimental X Método Estatístico
+       04   >   Dados Estatísticos
+       05   >   Variáveis Estatísticas
+       06   >   Séries Estatísticas 
+       07   >   Distribuição de Frequências
+       08   >   Representações Gráficas
+       09   >   Outros Gráficos e Representações
+       10   >   Apresentação De Dados FGV
+   Aula: Aula 02   >   Aula 01 - Medidas de Posição: Médias
+       01   >   Medidas de Posição
+       02   >   Notação de Somatório
+       03   >   Média Aritmética Simples
+       04   >   Média Ponderada
+       05   >   Média Aritmética Para Dados Agrupados
+       06   >   Média Geométrica
+       07   >   Média Harmônica
+       08   >   Desigualdade Entre Médias
+       09   >   Estatística - Questões FGV - Parte 01
+       10   >   Média Aritmética simples e Ponderada – Resolução de Questões FGV
+       11   >   Estatística - Questões CESPE - Parte  02
+       12   >   Estatística - Questões CESPE - Parte 03
+   Aula: Aula 03   >   Aula 02  - Medidas Separatrizes ou Quantis
+       01   >   Conceitos Iniciais - Separatrizes
+       02   >   Mediana para dados não agrupados
+       03   >   Mediana para dados agrupados em classe
+       04   >   Quartil, Decil E Percentil
+       05   >   Boxplot
+       06   >   Quantis e Bloxpot- FGV - Parte 01
+       07   >   Quantis e Bloxpot- FGV - Parte 02
+       08   >   Quantis e Bloxpot- FGV - Parte 03
+   Aula: Aula 04   >   Aula 03  - Medidas de Posição: Moda
+       01   >   Conceitos Iniciais (MODA)
+       02   >    Moda Para Dados Não Agrupados
+       03   >   Moda Para Dados Agrupados Sem Intervalos De Classe
+       04   >   Moda Para Dados Agrupados Em Classe
+       05   >   Propriedades da Moda 
+       06   >   Moda - FGV
+   Aula: Aula 05   >   Aula 04 - Medidas de Variabilidade ou Dispersão
+       01   >    Conceitos Iniciais De Medidas De Dispersão
+       02   >   Amplitude Total
+       03   >   Amplitude Interquartílica
+       04   >   Desvios Em Relação à Média Aritmética E Mediana
+       05   >   Desvio Absoluto Médio
+       06   >   Variância - Parte 01
+       07   >   Variância - Parte 02
+       08   >   Desvio Padrão
+       09   >   Coeficiente De Variação
+       10   >   Variância Relativa
+       11   >   Medidas de Dispersão - FGV I
+       12   >   Medidas de Dispersão - FGV II
+       13   >   Medidas de Dispersão - FGV III
+       14   >   Medidas de Dispersão - FGV IV
+   Aula: Aula 06   >   Aula 05  - Análise Combinatória
+       01   >   Princípio Fundamental da Contagem (PFC)
+       02   >   Permutações
+       03   >   Permutações com Repetição
+       04   >   Permutações Circulares
+       05   >   Arranjos Simples
+       06   >   Arranjos com Repetição
+       07   >   Combinação simples - Parte 01
+       08   >   Combinação simples - Parte 02
+       09   >   Combinação com repetição
+       10   >   Análise Combinatória FGV - Parte 01
+       11   >   Análise Combinatória FGV - Parte 02
+       12   >   Análise Combinatória FGV - Parte 03
+   Aula: Aula 07   >   Aula 06  - Probabilidade
+       01   >   Probabilidade
+       02   >   Probabilidade com Análise Combinatória
+       03   >   Probabilidade condicional e independência
+       04   >   Probabilidade Condicional e Independência
+       05   >   Teorema de Bayes
+       06   >   Resolução de questões Probabilidade FGV - Parte 01
+       07   >   Resolução de questões Probabilidade FGV - Parte 02
+       08   >   Resolução de questões Probabilidade FGV - Parte 03
+       09   >   Resolução de questões Probabilidade FGV - Parte 04
+       10   >   Resolução de questões Probabilidade FGV - Parte 05
+       11   >   Resolução de questões Probabilidade FGV - Parte 06
+       12   >   Probabilidade – Resolução de Questões FGV – Parte 01
+       13   >   Probabilidade – Resolução de Questões FGV – Parte 02
+       14   >   Probabilidade - Resolução de Questões FGV
+   Aula: Aula 08   >   Aula 07 - Regressão Linear
+       01   >   Correlação Linear
+       02   >    Regressão Linear Simples - Parte 01
+       03   >    Regressão Linear Simples - Parte 02
+       04   >   Regressão Linear Simples - Parte 03
+       05   >   Regressão Linear Simples - Parte 04
+       06   >   Regressão Linear Simples - Parte 05
+       07   >   Regressão Linear Simples - Parte 06
+       08   >   Regressão Linear Simples - Parte 07
+       09   >   Análise de variância da Regressão
+       10   >   Análise da variância da regressão - coeficiente de determinação parte 1
+       11   >   Análise da variância da regressão - coeficiente de determinação parte 2
+       12   >   Análise da variância da regressão - Quadrados Médios
+
+![[Aula 01_07_Resumo.pdf]]
+
+
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 01_08_Slide.pdf]]
+
+![[Aula 01_09_Resumo.pdf]]
+
+![[Aula 01_09_Slide.pdf]]
+
+![[Aula 01_10_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 01_Apostila.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 01_Apostila_grifada.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 02_01_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 02_01_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 02_02_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 02_03_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 02_04_Resumo.pdf]]
+
+![[Aula 02_05_Resumo.pdf]]
+
+![[Aula 02_06_Resumo.pdf]]
+
+![[Aula 02_07_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 02_08_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 02_09_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 02_10_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 02_Apostila.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 02_Apostila_grifada.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 03_01_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 03_01_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 03_02_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 03_03_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 03_04_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 03_05_Resumo.pdf]]
+
+![[Aula 03_06_Slide.pdf]]
+
+![[Aula 03_07_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 03_Apostila.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 03_Apostila_grifada.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 04_01_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 04_01_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 04_02_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 04_02_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 04_03_Resumo.pdf]]
+
+![[Aula 04_04_Resumo.pdf]]
+
+![[Aula 04_05_Resumo.pdf]]
+
+![[Aula 04_06_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 04_Apostila.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 04_Apostila_grifada.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 05_01_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 05_01_Slide.pdf]]
+
+![[Aula 05_03_Slide.pdf]]
+
+![[Aula 05_06_Slide.pdf]]
+
+![[Aula 05_09_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 05_10_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 05_Apostila.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 05_Apostila_grifada.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_01_Mapa Mental.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_01_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_01_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_02_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_03_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_04_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_05_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_06_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_07_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_08_Resumo.pdf]]
+
+![[Aula 06_09_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_10_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_Apostila.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_Apostila_grifada.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 06_Apostila_simplificada.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_01_Mapa Mental.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_01_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_01_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_02_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_03_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_04_Resumo.pdf]]
+
+![[Aula 07_05_Mapa Mental.pdf]]
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_05_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_05_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_06_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_14_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_Apostila.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 07_Apostila_grifada.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 08_01_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 08_01_Slide.pdf]]
+
+![[Aula 08_05_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 08_10_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 08_Apostila.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 08_Apostila_grifada.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 01_01_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 01_01_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 01_02_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 01_03_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 01_04_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 01_04_Slide.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 01_05_Resumo.pdf]]
+
+![[Materiais/Pacote - Caixa Econômica Federal - CEF (Técnico Bancário) Pacotaço- Pacote Téorico +/Caixa Econômica Federal - CEF (Técnico Bancário) Noções de Probabilidade e Estatística - 2023 (P_1/PDF/Aula 01_06_Resumo.pdf]]
+
