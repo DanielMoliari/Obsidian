@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "182ffc7a0c095731",
+        "id": "1349a471e4e3dbdb",
         "type": "tabs",
         "children": [
           {
-            "id": "c2a5258c6a04e747",
+            "id": "df2bf50007eafc40",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2a5258c6a04e747",
+  "active": "df2bf50007eafc40",
   "lastOpenFiles": [
     "Untitled.md",
     "CEF.md"
