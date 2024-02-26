@@ -2,6 +2,11 @@
 
 Concurso da Caixa Econômica Federal
 
+Metas:
+	[[Meta]]
+Cronogramas:
+	[[Cronograma Semanal]]
+
 Matérias:
 - [[Conhecimentos Básicos]]
 - [[Conhecimentos Específicos]]
