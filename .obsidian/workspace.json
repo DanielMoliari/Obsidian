@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1349a471e4e3dbdb",
+        "id": "1f59b75f92aca967",
         "type": "tabs",
         "children": [
           {
-            "id": "df2bf50007eafc40",
+            "id": "7e1472a0d1dccdf3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Português.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Português.md"
+              }
             }
           }
         ]
@@ -138,9 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df2bf50007eafc40",
+  "active": "afe0c1c9182a4c18",
   "lastOpenFiles": [
-    "Untitled.md",
-    "CEF.md"
+    "Image Descart/Pasted image 20240226150723.png",
+    "Image Descart/Pasted image 20240226145510.png",
+    "Notas/Conhecimentos Básicos.md",
+    "CEF.md",
+    "Provas/Questões/prova2021.pdf",
+    "Provas/Questões/analista_de_desenvolvimento_tecnologia_da_informacao agerio 2023.pdf",
+    "Provas/Gabaritos/gabarito2021.pdf",
+    "Provas/Gabaritos/Gabarito prova 1.pdf",
+    "Provas/Questões/PROVA-2021.pdf",
+    "Untitled.md"
   ]
 }
