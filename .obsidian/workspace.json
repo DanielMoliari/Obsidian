@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Português.md",
+                "file": "Notas/Tecnologia da Informação.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Português.md",
+                "file": "Notas/Tecnologia da Informação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Português.md",
+                "file": "Notas/Tecnologia da Informação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Português.md"
+                "file": "Notas/Tecnologia da Informação.md"
               }
             }
           }
@@ -146,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afe0c1c9182a4c18",
+  "active": "7e1472a0d1dccdf3",
   "lastOpenFiles": [
+    "Notas/Conhecimentos Específicos.md",
+    "CEF.md",
+    "Notas/Português.md",
     "Image Descart/Pasted image 20240226150723.png",
     "Image Descart/Pasted image 20240226145510.png",
     "Notas/Conhecimentos Básicos.md",
-    "CEF.md",
     "Provas/Questões/prova2021.pdf",
     "Provas/Questões/analista_de_desenvolvimento_tecnologia_da_informacao agerio 2023.pdf",
     "Provas/Gabaritos/gabarito2021.pdf",
