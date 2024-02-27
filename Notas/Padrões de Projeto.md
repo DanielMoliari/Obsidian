@@ -1,7 +1,8 @@
-### Padrões de Projeto:
+### Padrões de Projeto
 
 	Jogo: https://refactoring.guru
-	Vídeo: https://www.youtube.com/watch?v=tv-_1er1mWI
+<iframe width="853" height="480" src="https://www.youtube.com/embed/tv-_1er1mWI" title="10 Design Patterns Explained in 10 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
 **1. Definição:**
 
 - **Padrões de Projeto:** Soluções para problemas recorrentes de design de software. São abstrações que podem ser adaptadas para resolver problemas específicos.
@@ -62,5 +63,3 @@
 
 - **Livros:** "Design Patterns: Elements of Reusable Object-Oriented Software" (Gang of Four), "Head First Design Patterns".
 - **Online:** Referências como o site da SourceMaking oferecem insights detalhados sobre padrões.
-
-Ao entender esses conceitos, você estará preparado para abordar questões relacionadas a

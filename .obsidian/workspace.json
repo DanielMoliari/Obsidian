@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1f59b75f92aca967",
+        "id": "e6c358694d13e197",
         "type": "tabs",
         "children": [
           {
-            "id": "7e1472a0d1dccdf3",
+            "id": "706e730a41594a47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md",
+                "file": "Notas/Comportamentos éticos e compliance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c435476ab3a7f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ética Tópico 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81e7a62ac8dfb855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/T.I Tópico 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md",
+                "file": "Ética Tópico 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md",
+                "file": "Ética Tópico 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md"
+                "file": "Ética Tópico 1.md"
               }
             }
           }
@@ -146,24 +171,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e1472a0d1dccdf3",
+  "active": "0c435476ab3a7f20",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Notas/Tecnologia da Informação.md",
-    "Notas/UX.md",
+    "Prevenção à lavagem de dinheiro.md",
     "Notas/T.I Tópico 1.md",
-    "Notas/Processo Unificado (UP).md",
+    "Ética Tópico 1.md",
+    "Notas/Engenharia de software.md",
+    "Notas/Comportamentos éticos e compliance.md",
+    "Notas/Conhecimentos Básicos.md",
+    "CEF.md",
+    "Notas/Conhecimentos Específicos.md",
+    "Notas/Tecnologia da Informação.md",
     "Notas/Padrões de Projeto.md",
     "Notas/Linguagem UML.md",
-    "Notas/Engenharia de software.md",
     "Notas/Engenharia de Requisitos.md",
     "Notas/Análise e projeto orientados a objetos.md",
-    "Notas/Conhecimentos Específicos.md",
-    "CEF.md",
+    "Notas/UX.md",
+    "Notas/Processo Unificado (UP).md",
+    "conflict-files-obsidian-git.md",
     "Notas/Português.md",
     "Image Descart/Pasted image 20240226150723.png",
     "Image Descart/Pasted image 20240226145510.png",
-    "Notas/Conhecimentos Básicos.md",
     "Provas/Questões/prova2021.pdf",
     "Provas/Questões/analista_de_desenvolvimento_tecnologia_da_informacao agerio 2023.pdf",
     "Provas/Gabaritos/gabarito2021.pdf",
