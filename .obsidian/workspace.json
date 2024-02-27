@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1f59b75f92aca967",
+        "id": "ad3ce90097ad28fc",
         "type": "tabs",
         "children": [
           {
-            "id": "7e1472a0d1dccdf3",
+            "id": "b0b0d7bbe6b9c47d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,14 +138,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e1472a0d1dccdf3",
+  "active": "b0b0d7bbe6b9c47d",
   "lastOpenFiles": [
+    "Notas/T.I Tópico 1.md",
+    "Notas/Engenharia de Requisitos.md",
+    "Notas/Padrões de Projeto.md",
+    "Notas/Engenharia de software.md",
+    "Notas/Processo Unificado (UP).md",
+    "Notas/UX.md",
+    "Notas/Linguagem UML.md",
+    "Notas/Análise e projeto orientados a objetos.md",
+    "Notas/Tecnologia da Informação.md",
+    "Notas/Conhecimentos Específicos.md",
+    "CEF.md",
+    "README.md",
     "Pasted image 20240226202756.png",
     "Notas/Português.md",
     "Image Descart/Pasted image 20240226150723.png",
     "Image Descart/Pasted image 20240226145510.png",
     "Notas/Conhecimentos Básicos.md",
-    "CEF.md",
     "Provas/Questões/prova2021.pdf",
     "Provas/Questões/analista_de_desenvolvimento_tecnologia_da_informacao agerio 2023.pdf",
     "Provas/Gabaritos/gabarito2021.pdf",

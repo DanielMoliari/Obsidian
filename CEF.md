@@ -6,7 +6,6 @@ Metas:
 	[[Meta]]
 Cronogramas:
 	[[Cronograma Semanal]]
-
 Matérias:
 - [[Conhecimentos Básicos]]
 - [[Conhecimentos Específicos]]
