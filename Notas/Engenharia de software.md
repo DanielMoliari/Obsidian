@@ -36,7 +36,8 @@
 
 **7. Design Patterns (Padrões de Projeto):**
 - **Singleton:** Garante uma única instância de uma classe.
-	-Vídeo: https://www.youtube.com/watch?v=BBywfIrmd5M
+	<iframe width="923" height="519" src="https://www.youtube.com/embed/BBywfIrmd5M" title="Design Patterns - Conheça o Singleton, o Padrão de Projetos mais cobrado em Concursos Públicos de TI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
 - **Factory Method:** Define uma interface para criar um objeto, mas deixa as subclasses alterarem o tipo de objetos que serão criados.
 
 **8. Desenvolvimento Ágil:**

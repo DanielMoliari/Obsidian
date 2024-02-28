@@ -18,5 +18,6 @@ Provas:
 	[[Prova AgeRio 2023 Cesgranrio Analise e Desenvolvimento de Sistemas]]
 	
 	https://www.questoesestrategicas.com.br/questoes/busca/prova/cef-tecnico-bancario-novo-tecnologia-da-informacao-cesgranrio-2021
-	
+
+	https://whimsical.com/cef-Xd8mTGWjFJ6MKsyfMJahZD
 	https://aluno.apostilasopcao.com.br/#/mapa-de-questoes

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c358694d13e197",
+        "id": "761ba7508dd23670",
         "type": "tabs",
         "children": [
           {
-            "id": "706e730a41594a47",
+            "id": "fa85fa13aa8567f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c435476ab3a7f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ética Tópico 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81e7a62ac8dfb855",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/T.I Tópico 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ética Tópico 1.md",
+                "file": "Notas/Comportamentos éticos e compliance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ética Tópico 1.md",
+                "file": "Notas/Comportamentos éticos e compliance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ética Tópico 1.md"
+                "file": "Notas/Comportamentos éticos e compliance.md"
               }
             }
           }
@@ -171,24 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c435476ab3a7f20",
+  "active": "fa85fa13aa8567f2",
   "lastOpenFiles": [
-    "Prevenção à lavagem de dinheiro.md",
-    "Notas/T.I Tópico 1.md",
-    "Ética Tópico 1.md",
-    "Notas/Engenharia de software.md",
+    "Notas/Ética Tópico 1.md",
     "Notas/Comportamentos éticos e compliance.md",
-    "Notas/Conhecimentos Básicos.md",
-    "CEF.md",
-    "Notas/Conhecimentos Específicos.md",
+    "Notas/Engenharia de software.md",
+    "Notas/T.I Tópico 1.md",
     "Notas/Tecnologia da Informação.md",
-    "Notas/Padrões de Projeto.md",
-    "Notas/Linguagem UML.md",
+    "Notas/Conhecimentos Específicos.md",
+    "CEF.md",
+    "Ética Tópico 3.md",
+    "Ética Tópico 2.md",
+    "Notas/Conhecimentos Básicos.md",
+    "Notas/Prevenção à lavagem de dinheiro.md",
     "Notas/Engenharia de Requisitos.md",
-    "Notas/Análise e projeto orientados a objetos.md",
-    "Notas/UX.md",
+    "Notas/Padrões de Projeto.md",
     "Notas/Processo Unificado (UP).md",
-    "conflict-files-obsidian-git.md",
+    "Notas/UX.md",
+    "Notas/Linguagem UML.md",
+    "Notas/Análise e projeto orientados a objetos.md",
+    "README.md",
+    "Pasted image 20240226202756.png",
     "Notas/Português.md",
     "Image Descart/Pasted image 20240226150723.png",
     "Image Descart/Pasted image 20240226145510.png",
