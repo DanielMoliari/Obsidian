@@ -4,8 +4,14 @@ Prevenção à lavagem de dinheiro: Lei nº 9.613/98 e suas alterações; Circul
 
 "me explique de forma sucinta sobre esses tópicos: [[Prevenção à lavagem de dinheiro]]: Lei nº 9.613/98 e suas alterações; Circular nº 3.978, de 23 de janeiro de 2020 e Carta Circular nº 4.001, de 29 de janeiro de 2020 e suas alterações, Resolução CVM 50/2021."
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/WoUsiXdu2tw" title="Aula 01 - Prevenção à lavagem de dinheiro  - Curso Caixa Econômica Federal (CEF) 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/bcVEtKvigMM" title="Aula 02 - Prevenção e procedimentos de lavagem de dinheiro  - Curso Caixa Econômica Federal (CEF)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/NmPe-HwA0iA" title="Aula 03 - COAF e registro das operações  - Curso Caixa Econômica Federal (CEF)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/PUYZomkVSZg" title="Aula 04 - Combate à lavagem de dinheiro  - Curso Caixa Econômica Federal (CEF)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="853" height="480" src="https://www.youtube.com/embed/MWKNofQx1ok" title="Aula 05 - GAFI e CSNU  - Curso Caixa Econômica Federal (CEF)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/M2fwp_ki-Mc" title="Aula 06 - Resolução CVM n° 50  - Curso Caixa Econômica Federal (CEF)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 1. **[[Prevenção à lavagem de dinheiro]] (PLD):**
-    
     - Refere-se a medidas e políticas adotadas para detectar e evitar atividades relacionadas à lavagem de dinheiro.
     - No Brasil, a Lei nº 9.613/98 estabelece as normas para prevenção e combate à lavagem de dinheiro.
 2. **Lei nº 9.613/98 e Suas Alterações:**
