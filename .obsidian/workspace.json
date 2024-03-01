@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8b38bc76012331c",
+        "id": "f3b64c2e7978a796",
         "type": "tabs",
         "children": [
           {
-            "id": "79adbfae9b937dc9",
+            "id": "88e7dad80b14b988",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,13 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79adbfae9b937dc9",
+  "active": "88e7dad80b14b988",
   "lastOpenFiles": [
-    "Notas/Estruturas de Dados.md",
-    "Notas/T.I Tópico 2.md",
+    "Notas/Noções de Probabilidade e Estatística.md",
+    "Notas/PE Tópico 2.md",
+    "Notas/PE Tópico 1.md",
+    "Notas/Conhecimentos Básicos.md",
+    "CEF.md",
     "Notas/Tecnologia da Informação.md",
     "Notas/Conhecimentos Específicos.md",
-    "CEF.md",
+    "Notas/Estruturas de Dados.md",
+    "Notas/T.I Tópico 2.md",
     "Notas/Busca Sequencial e Busca Binária sobre Arrays.md",
     "Notas/Ordenação.md",
     "Image Descart/Pasted image 20240228132204.png",
@@ -166,20 +170,16 @@
     "Notas/Prevenção à lavagem de dinheiro.md",
     "Prevenção à lavagem de dinheiro.md",
     "Notas/Engenharia de software.md",
-    "Notas/Conhecimentos Básicos.md",
     "Notas/Padrões de Projeto.md",
     "Notas/Linguagem UML.md",
     "Notas/Engenharia de Requisitos.md",
     "Notas/Análise e projeto orientados a objetos.md",
     "Notas/UX.md",
     "Notas/Processo Unificado (UP).md",
-    "conflict-files-obsidian-git.md",
-    "Notas/Português.md",
     "Provas/Questões/prova2021.pdf",
     "Provas/Questões/analista_de_desenvolvimento_tecnologia_da_informacao agerio 2023.pdf",
     "Provas/Gabaritos/gabarito2021.pdf",
     "Provas/Gabaritos/Gabarito prova 1.pdf",
-    "Provas/Questões/PROVA-2021.pdf",
-    "Untitled.md"
+    "Provas/Questões/PROVA-2021.pdf"
   ]
 }
