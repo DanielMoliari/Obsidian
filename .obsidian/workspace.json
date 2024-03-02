@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3b64c2e7978a796",
+        "id": "5e4d9929aa258684",
         "type": "tabs",
         "children": [
           {
-            "id": "88e7dad80b14b988",
+            "id": "76f69a2caca3d40b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Port Tópico 7 e 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Port Tópico 7 e 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Port Tópico 7 e 8.md"
+              }
             }
           }
         ]
@@ -138,44 +142,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88e7dad80b14b988",
+  "active": "afe0c1c9182a4c18",
   "lastOpenFiles": [
+    "Notas/Port Tópico 6.md",
+    "Notas/Português.md",
+    "Notas/Port Tópico 7 e 8.md",
+    "Notas/Comportamentos éticos e compliance.md",
+    "Notas/Ética Tópico 1.md",
+    "Notas/Ética Tópico 2.md",
+    "Notas/Ética Tópico 3.md",
+    "Notas/Conhecimentos Básicos.md",
     "Notas/Noções de Probabilidade e Estatística.md",
     "Notas/PE Tópico 2.md",
     "Notas/PE Tópico 1.md",
-    "Notas/Conhecimentos Básicos.md",
+    "Notas/Matemática Financeira.md",
     "CEF.md",
-    "Notas/Tecnologia da Informação.md",
     "Notas/Conhecimentos Específicos.md",
-    "Notas/Estruturas de Dados.md",
+    "Notas/Conhecimentos e Comportamentos Digitais.md",
+    "Notas/CD Tópico 3.md",
+    "Notas/CD Tópico 2.md",
+    "Notas/CD Tópico 1.md",
+    "Notas/Tecnologia da Informação.md",
+    "Notas/PE Tópico 3.md",
     "Notas/T.I Tópico 2.md",
-    "Notas/Busca Sequencial e Busca Binária sobre Arrays.md",
     "Notas/Ordenação.md",
+    "Notas/Estruturas de Dados.md",
+    "Notas/Busca Sequencial e Busca Binária sobre Arrays.md",
     "Image Descart/Pasted image 20240228132204.png",
     "Image Descart/Pasted image 20240228132124.png",
     "Image Descart/Pasted image 20240228132101.png",
-    "Pasted image 20240228130643.png",
     "Image Descart/Pasted image 20240228124454.png",
-    "Notas/T.I Tópico 1.md",
-    "Image Descart/Pasted image 20240228123845.png",
-    "Image Descart/Pasted image 20240228123910.png",
-    "Image Descart/Pasted image 20240228123924.png",
     "Image Descart/Pasted image 20240228124029.png",
     "Image Descart/Pasted image 20240228124017.png",
-    "Notas/Ética Tópico 1.md",
-    "Notas/Ética Tópico 3.md",
-    "Notas/Ética Tópico 2.md",
-    "Notas/Comportamentos éticos e compliance.md",
-    "Ética Tópico 1.md",
-    "Notas/Prevenção à lavagem de dinheiro.md",
-    "Prevenção à lavagem de dinheiro.md",
+    "Image Descart/Pasted image 20240228124006.png",
+    "Image Descart/Pasted image 20240228123924.png",
+    "Image Descart/Pasted image 20240228123910.png",
+    "Image Descart/Pasted image 20240228123845.png",
     "Notas/Engenharia de software.md",
-    "Notas/Padrões de Projeto.md",
-    "Notas/Linguagem UML.md",
-    "Notas/Engenharia de Requisitos.md",
-    "Notas/Análise e projeto orientados a objetos.md",
-    "Notas/UX.md",
-    "Notas/Processo Unificado (UP).md",
+    "Notas/T.I Tópico 1.md",
     "Provas/Questões/prova2021.pdf",
     "Provas/Questões/analista_de_desenvolvimento_tecnologia_da_informacao agerio 2023.pdf",
     "Provas/Gabaritos/gabarito2021.pdf",

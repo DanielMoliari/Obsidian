@@ -19,3 +19,7 @@ Literario x Não Literario, Literario é bem mais dificil, sentido das palavras 
 
 Leitura Analítica é ler cada paragrafo se perguntando qual o significado daquilo, a ideia principal. Comparação da alternativa ao texto. Pular se tiver duvida dizendo para si mesmo, "vou marcar a certa depois".
 ![[Pasted image 20240226150723.png]]
+
+## Conteudo:
+[[Port Tópico 6]]
+[[Port Tópico 7 e 8]]
