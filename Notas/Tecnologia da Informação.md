@@ -4,6 +4,8 @@
 [[Informática Zip]]
 [[Estratégico Informática Zip]]
 
+## Simuladin Will T.I
+[[Simulados TI]]
 ## Canais Youtube:
 https://www.youtube.com/@HampliaConcursos/videos
 https://www.youtube.com/@MichaelSambol/videos

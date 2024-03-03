@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5e4d9929aa258684",
+        "id": "7ab9e0c3b6e49ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "76f69a2caca3d40b",
+            "id": "b4af2d6c44e4792e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Gabarito Prova 2021.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 597.5
   },
   "right": {
     "id": "4a7bb3742d17abfe",
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Port Tópico 7 e 8.md",
+                "file": "Notas/Gabarito Prova 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Port Tópico 7 e 8.md",
+                "file": "Notas/Gabarito Prova 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Port Tópico 7 e 8.md"
+                "file": "Notas/Gabarito Prova 2021.md"
               }
             }
           }
@@ -142,32 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afe0c1c9182a4c18",
+  "active": "b4af2d6c44e4792e",
   "lastOpenFiles": [
+    "Notas/Prova 2021.md",
+    "PDF Descart/Gabarito Prova 2021.pdf",
+    "PDF Descart/Gabarito Prova 2021.pdf.opdownload",
+    "PDF Descart/Prova 2021.pdf",
+    "PDF Descart/Prova 2021.pdf.opdownload",
+    "Notas/Gabarito Prova 2021.md",
+    "PROVA-2021.pdf.md",
+    "CEF.md",
+    "PDFs/Aleatórios/Bizus e Mnemonicos.pdf",
+    "Notas/Comportamentos éticos e compliance.md",
+    "Notas/Conhecimentos Básicos.md",
+    "Notas/Redação.md",
+    "Notas/Tecnologia da Informação.md",
+    "Notas/Simulados TI.md",
+    "PDF Descart/Simuladin-TI9.pdf",
+    "Notas/Conhecimentos Específicos.md",
+    "PDF Descart/Redação Conteudo Aula.pdf",
+    "PDF Descart/Simuladin-Ética-Compliance.pdf",
+    "ConteudoWill/curso-290403-trilha-00-499b-completo.pdf",
+    "PDF Descart/Simuladin-TI8.pdf",
+    "Notas/Redaçoes Feitas.md",
+    "Notas/Redação Citações.md",
+    "Notas/Redação Modelos.md",
+    "Notas/Redação Geral.md",
+    "Notas/Redação Temas.md",
+    "Temas.md",
+    "Notas/Redação Caixa.md",
     "Notas/Port Tópico 6.md",
     "Notas/Português.md",
     "Notas/Port Tópico 7 e 8.md",
-    "Notas/Comportamentos éticos e compliance.md",
     "Notas/Ética Tópico 1.md",
     "Notas/Ética Tópico 2.md",
     "Notas/Ética Tópico 3.md",
-    "Notas/Conhecimentos Básicos.md",
     "Notas/Noções de Probabilidade e Estatística.md",
     "Notas/PE Tópico 2.md",
-    "Notas/PE Tópico 1.md",
-    "Notas/Matemática Financeira.md",
-    "CEF.md",
-    "Notas/Conhecimentos Específicos.md",
-    "Notas/Conhecimentos e Comportamentos Digitais.md",
-    "Notas/CD Tópico 3.md",
-    "Notas/CD Tópico 2.md",
-    "Notas/CD Tópico 1.md",
-    "Notas/Tecnologia da Informação.md",
-    "Notas/PE Tópico 3.md",
-    "Notas/T.I Tópico 2.md",
-    "Notas/Ordenação.md",
-    "Notas/Estruturas de Dados.md",
-    "Notas/Busca Sequencial e Busca Binária sobre Arrays.md",
     "Image Descart/Pasted image 20240228132204.png",
     "Image Descart/Pasted image 20240228132124.png",
     "Image Descart/Pasted image 20240228132101.png",
@@ -177,13 +192,6 @@
     "Image Descart/Pasted image 20240228124006.png",
     "Image Descart/Pasted image 20240228123924.png",
     "Image Descart/Pasted image 20240228123910.png",
-    "Image Descart/Pasted image 20240228123845.png",
-    "Notas/Engenharia de software.md",
-    "Notas/T.I Tópico 1.md",
-    "Provas/Questões/prova2021.pdf",
-    "Provas/Questões/analista_de_desenvolvimento_tecnologia_da_informacao agerio 2023.pdf",
-    "Provas/Gabaritos/gabarito2021.pdf",
-    "Provas/Gabaritos/Gabarito prova 1.pdf",
-    "Provas/Questões/PROVA-2021.pdf"
+    "Image Descart/Pasted image 20240228123845.png"
   ]
 }
