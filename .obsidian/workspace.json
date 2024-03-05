@@ -8,7 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4af2d6c44e4792e",
+            "id": "4ea00d142d8725d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T.I Tópico 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a3eb76be936bb7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scala.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf264cc8e644397c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AngularJS, Angular, TypeScript 4.X e JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74607f0072f659ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguagens orientadas a objeto e procedurais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b3657cc03d3c4b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +64,16 @@
                 "file": "Notas/Gabarito Prova 2021.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c8c61a922aaaabc0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-03 12.47.41.excalidraw.md"
               }
             }
           }
@@ -69,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5
+    "width": 227.5
   },
   "right": {
     "id": "4a7bb3742d17abfe",
@@ -85,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Gabarito Prova 2021.md",
+                "file": "T.I Tópico 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Gabarito Prova 2021.md",
+                "file": "T.I Tópico 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Gabarito Prova 2021.md"
+                "file": "T.I Tópico 3.md"
               }
             }
           }
@@ -143,55 +201,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4af2d6c44e4792e",
+  "active": "4ea00d142d8725d9",
   "lastOpenFiles": [
+    "Scala.md",
+    "Pasted image 20240304231706.png",
+    "T.I Tópico 3.md",
+    "Python 3.9.md",
+    "Pasted image 20240304230812.png",
+    "AngularJS, Angular, TypeScript 4.X e JavaScript.md",
+    "Pasted image 20240304225637.png",
+    "C Sharp e Dot Net.md",
+    "Pasted image 20240304224654.png",
+    "Linguagens orientadas a objeto e procedurais.md",
+    "Microprofile.md",
+    "Pasted image 20240304223622.png",
+    "JEE 8.md",
+    "Pasted image 20240304221818.png",
+    "Java SE 21.md",
+    "Pasted image 20240304221249.png",
+    "Notas/T.I Tópico 1.md",
+    "Notas/Tecnologia da Informação.md",
+    "Notas/T.I Tópico 2.md",
+    "Notas/Conhecimentos Específicos.md",
+    "CEF.md",
     "Notas/Prova 2021.md",
+    "Notas/Gabarito Prova 2021.md",
+    "Excalidraw/Drawing 2024-03-03 12.47.41.excalidraw.md",
+    "Notas/Processo Unificado (UP).md",
+    "Pasted Image 20240304171055_021.png",
+    "Excalidraw/Drawing 2024-03-04 17.10.27.excalidraw.md",
+    "PDF Descart/Prova 2021.pdf",
+    "Excalidraw",
     "PDF Descart/Gabarito Prova 2021.pdf",
     "PDF Descart/Gabarito Prova 2021.pdf.opdownload",
-    "PDF Descart/Prova 2021.pdf",
     "PDF Descart/Prova 2021.pdf.opdownload",
-    "Notas/Gabarito Prova 2021.md",
     "PROVA-2021.pdf.md",
-    "CEF.md",
     "PDFs/Aleatórios/Bizus e Mnemonicos.pdf",
     "Notas/Comportamentos éticos e compliance.md",
     "Notas/Conhecimentos Básicos.md",
     "Notas/Redação.md",
-    "Notas/Tecnologia da Informação.md",
     "Notas/Simulados TI.md",
     "PDF Descart/Simuladin-TI9.pdf",
-    "Notas/Conhecimentos Específicos.md",
     "PDF Descart/Redação Conteudo Aula.pdf",
     "PDF Descart/Simuladin-Ética-Compliance.pdf",
     "ConteudoWill/curso-290403-trilha-00-499b-completo.pdf",
-    "PDF Descart/Simuladin-TI8.pdf",
     "Notas/Redaçoes Feitas.md",
-    "Notas/Redação Citações.md",
-    "Notas/Redação Modelos.md",
-    "Notas/Redação Geral.md",
-    "Notas/Redação Temas.md",
-    "Temas.md",
-    "Notas/Redação Caixa.md",
-    "Notas/Port Tópico 6.md",
-    "Notas/Português.md",
-    "Notas/Port Tópico 7 e 8.md",
-    "Notas/Ética Tópico 1.md",
-    "Notas/Ética Tópico 2.md",
-    "Notas/Ética Tópico 3.md",
-    "Notas/Noções de Probabilidade e Estatística.md",
-    "Notas/PE Tópico 2.md",
     "Image Descart/Pasted image 20240228132204.png",
-    "Image Descart/Pasted image 20240228132124.png",
-    "Image Descart/Pasted image 20240228132101.png",
-    "Image Descart/Pasted image 20240228124454.png",
-    "Image Descart/Pasted image 20240228124029.png",
-    "Image Descart/Pasted image 20240228124017.png",
-    "Image Descart/Pasted image 20240228124006.png",
-    "Image Descart/Pasted image 20240228123924.png",
-    "Image Descart/Pasted image 20240228123910.png",
-    "Image Descart/Pasted image 20240228123845.png"
+    "Image Descart/Pasted image 20240228132124.png"
   ]
 }
