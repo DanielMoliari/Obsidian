@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "39f6d7182a74f4d2",
+        "id": "54c1fb0629f1b26e",
         "type": "tabs",
         "children": [
           {
-            "id": "58b8b20e46f0cedc",
+            "id": "e3e1b501a3bd6d7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notas/Tecnologia da Informação.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notas/Tecnologia da Informação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notas/Tecnologia da Informação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Notas/Tecnologia da Informação.md"
               }
             }
           }
@@ -146,34 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58b8b20e46f0cedc",
+  "active": "e3e1b501a3bd6d7b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "T.I Tópico 3.md",
-    "Scala.md",
-    "Python 3.9.md",
-    "Pasted image 20240304231706.png",
-    "Pasted image 20240304230812.png",
-    "Pasted image 20240304225637.png",
-    "Pasted image 20240304224654.png",
-    "Pasted image 20240304223622.png",
-    "Pasted image 20240304221818.png",
-    "Pasted image 20240304221249.png",
-    "Microprofile.md",
-    "Linguagens orientadas a objeto e procedurais.md",
-    "Java SE 21.md",
-    "JEE 8.md",
-    "Excalidraw/Drawing 2024-03-04 17.10.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-03 12.47.41.excalidraw.md",
-    "Excalidraw",
-    "C Sharp e Dot Net.md",
-    "AngularJS, Angular, TypeScript 4.X e JavaScript.md",
-    "Notas/Linguagem UML.md",
-    "Image Descart/uml.jpeg",
-    "Notas/T.I Tópico 1.md",
+    "Notas/T.I Tópico 3.md",
+    "Notas/Cobol.md",
+    "Notas/Objective-C, Flutter e Swift.md",
+    "Notas/Kotlin.md",
     "Notas/Tecnologia da Informação.md",
     "Notas/Conhecimentos Específicos.md",
     "CEF.md",
+    "Image Descart/Pasted image 20240304223622.png",
+    "Image Descart/Pasted image 20240304221818.png",
+    "Image Descart/Pasted image 20240304221249.png",
+    "Image Descart/Pasted image 20240305114300.png",
+    "Image Descart/Pasted image 20240305112732.png",
+    "Image Descart/Pasted image 20240305112701.png",
+    "Image Descart/Pasted image 20240305112612.png",
+    "Image Descart/Pasted image 20240305111542.png",
+    "Notas/R.md",
+    "Image Descart/Pasted image 20240305104257.png",
+    "conflict-files-obsidian-git.md",
+    "Notas/Scala.md",
+    "Notas/Python 3.9.md",
+    "Image Descart/Pasted image 20240304231706.png",
+    "Notas/Microprofile.md",
+    "Notas/Linguagens orientadas a objeto e procedurais.md",
+    "Notas/Java SE 21.md",
+    "Notas/JEE 8.md",
+    "Excalidraw/Drawing 2024-03-04 17.10.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-03 12.47.41.excalidraw.md",
+    "Excalidraw",
+    "Notas/C Sharp e Dot Net.md",
+    "Notas/AngularJS, Angular, TypeScript 4.X e JavaScript.md",
+    "Notas/Linguagem UML.md",
+    "Notas/T.I Tópico 1.md",
     "PDF Descart/Simuladin-Ética-Compliance.pdf",
     "PDF Descart/Simuladin-TI9.pdf",
     "PDF Descart/Simuladin-TI8.pdf",
@@ -186,13 +192,6 @@
     "Notas/Simulados TI.md",
     "Notas/Redação Temas.md",
     "Notas/Redação Modelos.md",
-    "Notas/Redação Geral.md",
-    "Notas/Redação Citações.md",
-    "Notas/Redação Caixa.md",
-    "Notas/Redaçoes Feitas.md",
-    "Notas/Port Tópico 7 e 8.md",
-    "Notas/Port Tópico 6.md",
-    "Image Descart/Pasted image 20240228132204.png",
-    "Image Descart/Pasted image 20240228132124.png"
+    "Notas/Redação Geral.md"
   ]
 }

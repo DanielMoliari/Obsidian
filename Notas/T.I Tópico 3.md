@@ -1,7 +1,7 @@
-Linguagens de programação: [[Linguagens orientadas a objeto e procedurais]]; [[Java SE 21]]; [[JEE 8]], [[Microprofile]], [[C Sharp e Dot Net]], [[AngularJS, Angular, TypeScript 4.X e JavaScript]]; [[Python 3.9]] (bibliotecas Pandas, NumPy, SciPy, Matplotlib, Tensorflow, PyTorch e Scikit-learn); [[Scala]]; [[R]]; [[Kotlin]]; Objective-C; Flutter; Swift, Cobol.
+Linguagens de programação: [[Linguagens orientadas a objeto e procedurais]]; [[Java SE 21]]; [[JEE 8]], [[Microprofile]], [[C Sharp e Dot Net]], [[AngularJS, Angular, TypeScript 4.X e JavaScript]]; [[Python 3.9]] (bibliotecas Pandas, NumPy, SciPy, Matplotlib, Tensorflow, PyTorch e Scikit-learn); [[Scala]]; [[R]]; [[Kotlin]]; [[Objective-C, Flutter e Swift]]; [[Cobol.
 ## Definição geral GPT:
 
-"Estou estudando para um concurso, e meu terceiro tópico nos conhecimentos específicos de tecnologia da informação é esse: "Linguagens de programação: [[Linguagens orientadas a objeto e procedurais]]; [[Java SE 21]]; [[JEE 8]], [[Microprofile]], [[C Sharp e Dot Net]]; [[AngularJS, Angular, TypeScript 4.X e JavaScript]]; [[Python 3.9]] (bibliotecas Pandas, NumPy, SciPy, Matplotlib, Tensorflow, PyTorch e Scikit-learn); [[Scala]]; [[R]]; [[Kotlin]]; Objective-C; Flutter; Swift, Cobol." Me explique ponto por ponto que está ai, de forma rasa, para que eu entenda o que é, pra que faz, consiga resolver questões sobre."
+"Estou estudando para um concurso, e meu terceiro tópico nos conhecimentos específicos de tecnologia da informação é esse: "Linguagens de programação: [[Linguagens orientadas a objeto e procedurais]]; [[Java SE 21]]; [[JEE 8]], [[Microprofile]], [[C Sharp e Dot Net]]; [[AngularJS, Angular, TypeScript 4.X e JavaScript]]; [[Python 3.9]] (bibliotecas Pandas, NumPy, SciPy, Matplotlib, Tensorflow, PyTorch e Scikit-learn); [[Scala]]; [[R]]; [[Kotlin]]; [[Objective-C, Flutter e Swift]]; [[Cobol]]." Me explique ponto por ponto que está ai, de forma rasa, para que eu entenda o que é, pra que faz, consiga resolver questões sobre."
 
 1. **[[Linguagens orientadas a objeto e procedurais]]:**
     
@@ -35,19 +35,19 @@ Linguagens de programação: [[Linguagens orientadas a objeto e procedurais]]; [
     
     - **O que é:** Uma linguagem de programação que combina programação orientada a objetos e funcional.
     - **Para que serve:** Desenvolvimento de aplicações escaláveis e concorrentes na Java Virtual Machine (JVM).
-9. **R:**
+9. **[[R]]:**
     
     - **O que é:** Uma linguagem e ambiente de programação estatística.
     - **Para que serve:** Análise estatística, visualização de dados e criação de modelos estatísticos.
-10. **Kotlin:**
+10. **[[Kotlin]]:**
     
     - **O que é:** Uma linguagem de programação moderna que roda na Java Virtual Machine (JVM).
     - **Para que serve:** Desenvolvimento de aplicações Android, web e corporativas.
-11. **Objective-C, Flutter e Swift:**
+11. **[[Objective-C, Flutter e Swift]]:**
     
     - **O que é:** Objective-C é uma linguagem para desenvolvimento iOS, Flutter é um framework para desenvolvimento de interfaces e Swift é a linguagem principal para desenvolvimento iOS.
     - **Para que serve:** Desenvolvimento de aplicativos para dispositivos Apple.
-12. **COBOL:**
+12. **[[Cobol]]:**
     
     - **O que é:** Uma linguagem de programação usada principalmente em aplicações empresariais para processamento de dados.
     - **Para que serve:** Trabalha bem em ambientes de negócios, especialmente em sistemas legados.
