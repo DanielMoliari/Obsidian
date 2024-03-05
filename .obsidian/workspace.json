@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ea00d142d8725d9",
+            "id": "393ec21a4f08b4c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T.I Tópico 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a3eb76be936bb7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scala.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf264cc8e644397c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AngularJS, Angular, TypeScript 4.X e JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74607f0072f659ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguagens orientadas a objeto e procedurais.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "T.I Tópico 3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "T.I Tópico 3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "T.I Tópico 3.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -205,53 +169,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ea00d142d8725d9",
+  "active": "393ec21a4f08b4c8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "T.I Tópico 3.md",
-    "Image Descart/uml.jpeg",
+    "conflict-files-obsidian-git.md",
+    "Notas/T.I Tópico 3.md",
+    "Notas/Scala.md",
+    "Notas/R.md",
+    "Notas/Python 3.9.md",
+    "Notas/Objective-C, Flutter e Swift.md",
+    "Notas/Microprofile.md",
+    "Notas/Linguagens orientadas a objeto e procedurais.md",
+    "Notas/Kotlin.md",
+    "Notas/Java SE 21.md",
+    "Notas/JEE 8.md",
+    "Notas/Cobol.md",
+    "Notas/C Sharp e Dot Net.md",
+    "Notas/AngularJS, Angular, TypeScript 4.X e JavaScript.md",
+    "Image Descart/Pasted image 20240305114300.png",
+    "Image Descart/Pasted image 20240305112732.png",
+    "Image Descart/Pasted image 20240305112701.png",
+    "Image Descart/Pasted image 20240305112612.png",
+    "Image Descart/Pasted image 20240305111542.png",
+    "Image Descart/Pasted image 20240305104257.png",
+    "Image Descart/Pasted image 20240304231706.png",
+    "Image Descart/Pasted image 20240304230812.png",
+    "Image Descart/Pasted image 20240304225637.png",
+    "Image Descart/Pasted image 20240304224654.png",
     "Scala.md",
-    "Pasted image 20240304231706.png",
     "Python 3.9.md",
-    "Pasted image 20240304230812.png",
     "AngularJS, Angular, TypeScript 4.X e JavaScript.md",
-    "Pasted image 20240304225637.png",
     "C Sharp e Dot Net.md",
-    "Pasted image 20240304224654.png",
     "Linguagens orientadas a objeto e procedurais.md",
     "Microprofile.md",
-    "Pasted image 20240304223622.png",
     "JEE 8.md",
-    "Pasted image 20240304221818.png",
     "Java SE 21.md",
-    "Pasted image 20240304221249.png",
     "Notas/T.I Tópico 1.md",
     "Notas/Tecnologia da Informação.md",
     "Notas/T.I Tópico 2.md",
-    "Notas/Conhecimentos Específicos.md",
-    "CEF.md",
-    "Notas/Prova 2021.md",
-    "Notas/Gabarito Prova 2021.md",
-    "Excalidraw/Drawing 2024-03-03 12.47.41.excalidraw.md",
-    "Notas/Processo Unificado (UP).md",
-    "Pasted Image 20240304171055_021.png",
-    "Excalidraw/Drawing 2024-03-04 17.10.27.excalidraw.md",
     "PDF Descart/Prova 2021.pdf",
     "Excalidraw",
     "PDF Descart/Gabarito Prova 2021.pdf",
     "PDF Descart/Gabarito Prova 2021.pdf.opdownload",
     "PDF Descart/Prova 2021.pdf.opdownload",
-    "PROVA-2021.pdf.md",
     "PDFs/Aleatórios/Bizus e Mnemonicos.pdf",
-    "Notas/Comportamentos éticos e compliance.md",
-    "Notas/Conhecimentos Básicos.md",
-    "Notas/Redação.md",
-    "Notas/Simulados TI.md",
     "PDF Descart/Simuladin-TI9.pdf",
     "PDF Descart/Redação Conteudo Aula.pdf",
     "PDF Descart/Simuladin-Ética-Compliance.pdf",
-    "ConteudoWill/curso-290403-trilha-00-499b-completo.pdf",
-    "Notas/Redaçoes Feitas.md",
-    "Image Descart/Pasted image 20240228132204.png"
+    "ConteudoWill/curso-290403-trilha-00-499b-completo.pdf"
   ]
 }
