@@ -1,5 +1,7 @@
 ### UML (Linguagem de Modelagem Unificada):
 
+![[uml.jpeg]]
+
 **1. Definição:**
 
 - **UML (Unified Modeling Language):** Padrão na indústria para visualizar, especificar, construir e documentar sistemas orientados a objetos.

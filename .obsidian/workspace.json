@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1b7789e8ad646ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7a3eb76be936bb7c",
             "type": "leaf",
             "state": {
@@ -77,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "T.I Tópico 3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "T.I Tópico 3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "T.I Tópico 3.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -205,11 +218,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ea00d142d8725d9",
+  "active": "1b7789e8ad646ff8",
   "lastOpenFiles": [
+    "T.I Tópico 3.md",
+    "conflict-files-obsidian-git.md",
+    "Image Descart/uml.jpeg",
     "Scala.md",
     "Pasted image 20240304231706.png",
-    "T.I Tópico 3.md",
     "Python 3.9.md",
     "Pasted image 20240304230812.png",
     "AngularJS, Angular, TypeScript 4.X e JavaScript.md",
@@ -250,7 +265,6 @@
     "PDF Descart/Simuladin-Ética-Compliance.pdf",
     "ConteudoWill/curso-290403-trilha-00-499b-completo.pdf",
     "Notas/Redaçoes Feitas.md",
-    "Image Descart/Pasted image 20240228132204.png",
-    "Image Descart/Pasted image 20240228132124.png"
+    "Image Descart/Pasted image 20240228132204.png"
   ]
 }
