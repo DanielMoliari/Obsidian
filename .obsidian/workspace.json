@@ -11,8 +11,12 @@
             "id": "58b8b20e46f0cedc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -140,6 +148,26 @@
   },
   "active": "58b8b20e46f0cedc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "T.I Tópico 3.md",
+    "Scala.md",
+    "Python 3.9.md",
+    "Pasted image 20240304231706.png",
+    "Pasted image 20240304230812.png",
+    "Pasted image 20240304225637.png",
+    "Pasted image 20240304224654.png",
+    "Pasted image 20240304223622.png",
+    "Pasted image 20240304221818.png",
+    "Pasted image 20240304221249.png",
+    "Microprofile.md",
+    "Linguagens orientadas a objeto e procedurais.md",
+    "Java SE 21.md",
+    "JEE 8.md",
+    "Excalidraw/Drawing 2024-03-04 17.10.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-03 12.47.41.excalidraw.md",
+    "Excalidraw",
+    "C Sharp e Dot Net.md",
+    "AngularJS, Angular, TypeScript 4.X e JavaScript.md",
     "Notas/Linguagem UML.md",
     "Image Descart/uml.jpeg",
     "Notas/T.I Tópico 1.md",
@@ -155,7 +183,6 @@
     "PDF Descart/Simuladin-TI4.pdf",
     "PDF Descart/Simuladin-TI3.pdf",
     "PDF Descart/Simuladin-TI2.pdf",
-    "PDF Descart/Simuladin-TI.pdf",
     "Notas/Simulados TI.md",
     "Notas/Redação Temas.md",
     "Notas/Redação Modelos.md",
@@ -165,26 +192,7 @@
     "Notas/Redaçoes Feitas.md",
     "Notas/Port Tópico 7 e 8.md",
     "Notas/Port Tópico 6.md",
-    "Notas/PE Tópico 3.md",
-    "Notas/CD Tópico 3.md",
-    "Notas/CD Tópico 2.md",
-    "Notas/CD Tópico 1.md",
-    "Notas/Noções de Probabilidade e Estatística.md",
-    "Notas/PE Tópico 2.md",
-    "Notas/PE Tópico 1.md",
-    "Notas/Conhecimentos Básicos.md",
-    "Notas/Estruturas de Dados.md",
-    "Notas/T.I Tópico 2.md",
-    "Notas/Busca Sequencial e Busca Binária sobre Arrays.md",
-    "Notas/Ordenação.md",
     "Image Descart/Pasted image 20240228132204.png",
-    "Image Descart/Pasted image 20240228132124.png",
-    "Image Descart/Pasted image 20240228132101.png",
-    "Pasted image 20240228130643.png",
-    "Image Descart/Pasted image 20240228124454.png",
-    "Image Descart/Pasted image 20240228123845.png",
-    "Image Descart/Pasted image 20240228123910.png",
-    "Image Descart/Pasted image 20240228123924.png",
-    "Image Descart/Pasted image 20240228124029.png"
+    "Image Descart/Pasted image 20240228132124.png"
   ]
 }
