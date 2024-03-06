@@ -23,3 +23,5 @@ Leitura Analítica é ler cada paragrafo se perguntando qual o significado daqui
 ## Conteudo:
 [[Port Tópico 6]]
 [[Port Tópico 7 e 8]]
+[[Port Tópico 9]]
+[[Port Tópico 10]]

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "393ec21a4f08b4c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6b3657cc03d3c4b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Gabarito Prova 2021.md",
+                "file": "Notas/Port Tópico 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notas/Port Tópico 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notas/Port Tópico 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Notas/Port Tópico 10.md"
               }
             }
           }
@@ -169,10 +157,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "393ec21a4f08b4c8",
+  "active": "afe0c1c9182a4c18",
   "lastOpenFiles": [
-    "T.I Tópico 3.md",
+    "Notas/Português.md",
+    "Notas/Port Tópico 10.md",
+    "Notas/Port Tópico 9.md",
+    "Notas/Conhecimentos Básicos.md",
+    "CEF.md",
+    "Notas/Gabarito Prova 2021.md",
     "conflict-files-obsidian-git.md",
+    "T.I Tópico 3.md",
     "Notas/T.I Tópico 3.md",
     "Notas/Scala.md",
     "Notas/R.md",
@@ -201,12 +195,6 @@
     "AngularJS, Angular, TypeScript 4.X e JavaScript.md",
     "C Sharp e Dot Net.md",
     "Linguagens orientadas a objeto e procedurais.md",
-    "Microprofile.md",
-    "JEE 8.md",
-    "Java SE 21.md",
-    "Notas/T.I Tópico 1.md",
-    "Notas/Tecnologia da Informação.md",
-    "Notas/T.I Tópico 2.md",
     "PDF Descart/Prova 2021.pdf",
     "Excalidraw",
     "PDF Descart/Gabarito Prova 2021.pdf",

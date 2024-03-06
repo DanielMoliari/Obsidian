@@ -1,0 +1,2 @@
+<iframe width="923" height="519" src="https://www.youtube.com/embed/d8WqU643v68" title="Frase, Oração e Período – Qual a Diferença?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=bbFKc4DXj9Y&t=1763s
