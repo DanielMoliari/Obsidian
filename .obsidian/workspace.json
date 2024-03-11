@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "54c1fb0629f1b26e",
+        "id": "4d0367be17634c4e",
         "type": "tabs",
         "children": [
           {
-            "id": "e3e1b501a3bd6d7b",
+            "id": "d4b0428216381ee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md",
+                "file": "Notas/Conhecimentos e Comportamentos Digitais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a70eabe97c371c37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/CD Tópico 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md",
+                "file": "Notas/CD Tópico 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md",
+                "file": "Notas/CD Tópico 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md"
+                "file": "Notas/CD Tópico 4.md"
               }
             }
           }
@@ -147,17 +160,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3e1b501a3bd6d7b",
+  "active": "afe0c1c9182a4c18",
   "lastOpenFiles": [
+    "Notas/Conhecimentos e Comportamentos Digitais.md",
+    "Notas/CD Tópico 4.md",
+    "Notas/Conhecimentos Específicos.md",
+    "CEF.md",
+    "README.md",
+    "Notas/Redação Caixa.md",
+    "Notas/Redação.md",
+    "Notas/Redação Geral.md",
+    "Notas/Tecnologia da Informação.md",
     "Notas/Port Tópico 9.md",
     "Notas/Port Tópico 10.md",
     "Notas/T.I Tópico 3.md",
     "Notas/Cobol.md",
     "Notas/Objective-C, Flutter e Swift.md",
     "Notas/Kotlin.md",
-    "Notas/Tecnologia da Informação.md",
-    "Notas/Conhecimentos Específicos.md",
-    "CEF.md",
     "Image Descart/Pasted image 20240304223622.png",
     "Image Descart/Pasted image 20240304221818.png",
     "Image Descart/Pasted image 20240304221249.png",
@@ -180,9 +199,6 @@
     "Excalidraw/Drawing 2024-03-03 12.47.41.excalidraw.md",
     "Excalidraw",
     "Notas/C Sharp e Dot Net.md",
-    "Notas/AngularJS, Angular, TypeScript 4.X e JavaScript.md",
-    "Notas/Linguagem UML.md",
-    "Notas/T.I Tópico 1.md",
     "PDF Descart/Simuladin-Ética-Compliance.pdf",
     "PDF Descart/Simuladin-TI9.pdf",
     "PDF Descart/Simuladin-TI8.pdf",
@@ -191,9 +207,6 @@
     "PDF Descart/Simuladin-TI5.pdf",
     "PDF Descart/Simuladin-TI4.pdf",
     "PDF Descart/Simuladin-TI3.pdf",
-    "PDF Descart/Simuladin-TI2.pdf",
-    "Notas/Simulados TI.md",
-    "Notas/Redação Temas.md",
-    "Notas/Redação Modelos.md"
+    "PDF Descart/Simuladin-TI2.pdf"
   ]
 }
