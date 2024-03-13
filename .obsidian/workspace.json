@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d575fc0632f8c8fc",
+        "id": "7ab9e0c3b6e49ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "a127697e472bcde9",
+            "id": "fa4b2fef9b01191d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Port Tópico 13.md",
+                "file": "Notas/T.I Tópico 4.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c8c61a922aaaabc0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-03 12.47.41.excalidraw.md"
               }
             }
           }
@@ -69,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5
   },
   "right": {
     "id": "4a7bb3742d17abfe",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Port Tópico 13.md",
+                "file": "Notas/T.I Tópico 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Port Tópico 13.md",
+                "file": "Notas/T.I Tópico 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Port Tópico 13.md"
+                "file": "Notas/T.I Tópico 4.md"
               }
             }
           }
@@ -138,62 +148,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a127697e472bcde9",
+  "active": "afe0c1c9182a4c18",
   "lastOpenFiles": [
-    "Image Descart/Pasted image 20240311155031.png",
-    "Notas/Português.md",
-    "Notas/Conhecimentos Básicos.md",
-    "CEF.md",
-    "Notas/Conhecimentos Específicos.md",
-    "Notas/Tecnologia da Informação.md",
-    "Notas/Conhecimentos e Comportamentos Digitais.md",
-    "Notas/CD Tópico 5.md",
-    "Notas/Noções de Probabilidade e Estatística.md",
-    "Notas/PE Tópico 4.md",
-    "Notas/PE Tópico 3.md",
-    "Notas/Inglês.md",
-    "Notas/Matemática Financeira.md",
-    "Notas/Matemática FInanceira Tópicos Gerais.md",
-    "Notas/Ética Tópico 2.md",
-    "Notas/Ética Tópico 3.md",
-    "Notas/Comportamentos éticos e compliance.md",
-    "Notas/Ética Geral.md",
-    "Notas/Port Tópico 12.md",
-    "Notas/Port Tópico 11.md",
-    "Notas/Port Tópico 13.md",
-    "Notas/Análise e projeto orientados a objetos.md",
-    "Notas/T.I Tópico 1.md",
-    "Notas/T.I Tópico 3.md",
+    "Notas/XML, XSLT, UDDI, WSDL e SOAP.md",
+    "Notas/SOA (Arquitetura Orientada a Serviços) e Web Services (Quarkus).md",
+    "Notas/Sistemas Distribuídos e Microsserviços.md",
+    "Notas/Servlets, JSF, JSP, Ajax.md",
+    "Notas/Arquitetura e Padrões de Projeto Java EE 8.md",
+    "Image Descart/Pasted image 20240313174921.png",
+    "Image Descart/Pasted image 20240313174821.png",
+    "Image Descart/Pasted image 20240313174748.png",
+    "Image Descart/Pasted image 20240313174725.png",
+    "Image Descart/Pasted image 20240313174645.png",
+    "Image Descart/Pasted image 20240313174627.png",
+    "Image Descart/Pasted image 20240313174345.png",
+    "Image Descart/Pasted image 20240313174327.png",
+    "Image Descart/Pasted image 20240313174310.png",
+    "Image Descart/Pasted image 20240313173958.png",
+    "XML, XSLT, UDDI, WSDL e SOAP.md",
+    "Notas/T.I Tópico 4.md",
+    "Notas/Padrões HTML 4.01, HTTP Response Status Code, XHTML 1.0.md",
+    "Notas/Padrões REST.md",
+    "SOA (Arquitetura Orientada a Serviços) e Web Services (Quarkus).md",
+    "Notas/Interoperabilidade de Sistemas.md",
+    "Servlets, JSF, JSP, Ajax.md",
+    "Arquitetura e Padrões de Projeto Java EE 8.md",
+    "Sistemas Distribuídos e Microsserviços.md",
+    "Notas/Desenvolvimento de Software para a Web.md",
     "Notas/Linguagens orientadas a objeto e procedurais.md",
+    "Notas/T.I Tópico 3.md",
+    "Notas/Tecnologia da Informação.md",
     "Notas/T.I Tópico 2.md",
-    "Image Descart/Pasted image 20240304223622.png",
-    "Image Descart/Pasted image 20240304221818.png",
-    "Image Descart/Pasted image 20240304221249.png",
-    "Image Descart/Pasted image 20240305114300.png",
-    "Image Descart/Pasted image 20240305112732.png",
-    "Image Descart/Pasted image 20240305112701.png",
-    "Image Descart/Pasted image 20240305112612.png",
-    "Image Descart/Pasted image 20240305111542.png",
-    "Image Descart/Pasted image 20240305104257.png",
-    "Image Descart/Pasted image 20240304231706.png",
+    "Excalidraw/Drawing 2024-03-03 12.47.41.excalidraw.md",
+    "Notas/Conhecimentos Específicos.md",
+    "CEF.md",
+    "Notas/Port Tópico 10.md",
+    "Notas/Ética Geral.md",
+    "Notas/Port Tópico 13.md",
+    "Notas/Port Tópico 12.md",
+    "PDF Descart/Prova 2021.pdf",
     "Excalidraw",
-    "PDF Descart/Simuladin-Ética-Compliance.pdf",
+    "PDF Descart/Gabarito Prova 2021.pdf",
+    "PDF Descart/Gabarito Prova 2021.pdf.opdownload",
+    "PDF Descart/Prova 2021.pdf.opdownload",
+    "PDFs/Aleatórios/Bizus e Mnemonicos.pdf",
     "PDF Descart/Simuladin-TI9.pdf",
-    "PDF Descart/Simuladin-TI8.pdf",
-    "PDF Descart/Simuladin-TI7.pdf",
-    "PDF Descart/Simuladin-TI6.pdf",
-    "PDF Descart/Simuladin-TI5.pdf",
-    "PDF Descart/Simuladin-TI4.pdf",
-    "PDF Descart/Simuladin-TI3.pdf",
-    "PDF Descart/Simuladin-TI2.pdf"
+    "PDF Descart/Redação Conteudo Aula.pdf",
+    "PDF Descart/Simuladin-Ética-Compliance.pdf",
+    "ConteudoWill/curso-290403-trilha-00-499b-completo.pdf"
   ]
 }
