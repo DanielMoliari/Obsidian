@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/T.I Tópico 4.md",
+                "file": "Notas/XML, XSLT, UDDI, WSDL e SOAP.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c8c61a922aaaabc0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-03 12.47.41.excalidraw.md"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/T.I Tópico 4.md",
+                "file": "Notas/XML, XSLT, UDDI, WSDL e SOAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/T.I Tópico 4.md",
+                "file": "Notas/XML, XSLT, UDDI, WSDL e SOAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/T.I Tópico 4.md"
+                "file": "Notas/XML, XSLT, UDDI, WSDL e SOAP.md"
               }
             }
           }
@@ -157,13 +147,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "afe0c1c9182a4c18",
+  "active": "fa4b2fef9b01191d",
   "lastOpenFiles": [
-    "Notas/XML, XSLT, UDDI, WSDL e SOAP.md",
+    "Notas/T.I Tópico 4.md",
+    "Notas/Interoperabilidade de Sistemas.md",
     "Notas/SOA (Arquitetura Orientada a Serviços) e Web Services (Quarkus).md",
-    "Notas/Sistemas Distribuídos e Microsserviços.md",
+    "Notas/XML, XSLT, UDDI, WSDL e SOAP.md",
+    "Notas/Padrões HTML 4.01, HTTP Response Status Code, XHTML 1.0.md",
+    "Notas/Padrões REST.md",
     "Notas/Servlets, JSF, JSP, Ajax.md",
     "Notas/Arquitetura e Padrões de Projeto Java EE 8.md",
+    "Notas/Sistemas Distribuídos e Microsserviços.md",
+    "Notas/Desenvolvimento de Software para a Web.md",
+    "Notas/Tecnologia da Informação.md",
+    "Notas/Conhecimentos Específicos.md",
+    "CEF.md",
     "Image Descart/Pasted image 20240313174921.png",
     "Image Descart/Pasted image 20240313174821.png",
     "Image Descart/Pasted image 20240313174748.png",
@@ -175,22 +173,14 @@
     "Image Descart/Pasted image 20240313174310.png",
     "Image Descart/Pasted image 20240313173958.png",
     "XML, XSLT, UDDI, WSDL e SOAP.md",
-    "Notas/T.I Tópico 4.md",
-    "Notas/Padrões HTML 4.01, HTTP Response Status Code, XHTML 1.0.md",
-    "Notas/Padrões REST.md",
     "SOA (Arquitetura Orientada a Serviços) e Web Services (Quarkus).md",
-    "Notas/Interoperabilidade de Sistemas.md",
     "Servlets, JSF, JSP, Ajax.md",
     "Arquitetura e Padrões de Projeto Java EE 8.md",
     "Sistemas Distribuídos e Microsserviços.md",
-    "Notas/Desenvolvimento de Software para a Web.md",
     "Notas/Linguagens orientadas a objeto e procedurais.md",
     "Notas/T.I Tópico 3.md",
-    "Notas/Tecnologia da Informação.md",
     "Notas/T.I Tópico 2.md",
     "Excalidraw/Drawing 2024-03-03 12.47.41.excalidraw.md",
-    "Notas/Conhecimentos Específicos.md",
-    "CEF.md",
     "Notas/Port Tópico 10.md",
     "Notas/Ética Geral.md",
     "Notas/Port Tópico 13.md",
