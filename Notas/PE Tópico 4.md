@@ -1,0 +1,2 @@
+<iframe width="700" height="394" src="https://www.youtube.com/embed/tTFES8Mqpa0" title="Coeficiente de Variação | Como calcular?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/JEwd0Vlqapo" title="FÁCIL e RÁPIDO | VARIÂNCIA e DESVIO PADRÃO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
