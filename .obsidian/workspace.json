@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d575fc0632f8c8fc",
+        "id": "29183415d476b09b",
         "type": "tabs",
         "children": [
           {
-            "id": "a127697e472bcde9",
+            "id": "8d06631abc1fac98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Noções de Probabilidade e Estatística.md",
+                "file": "Notas/Port Tópico 15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Noções de Probabilidade e Estatística.md",
+                "file": "Notas/Port Tópico 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Noções de Probabilidade e Estatística.md",
+                "file": "Notas/Port Tópico 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Noções de Probabilidade e Estatística.md"
+                "file": "Notas/Port Tópico 15.md"
               }
             }
           }
@@ -147,17 +147,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a127697e472bcde9",
+  "active": "8d06631abc1fac98",
   "lastOpenFiles": [
-    "Notas/PE Tópico 4.md",
-    "Notas/Noções de Probabilidade e Estatística.md",
+    "Notas/Português.md",
+    "Notas/Port Tópico 17.md",
     "Notas/Conhecimentos Básicos.md",
     "CEF.md",
-    "Notas/Português.md",
-    "Notas/Port Tópico 15.md",
-    "Notas/Port Tópico 14.md",
-    "Notas/Tecnologia da Informação.md",
+    "Notas/Ética Geral.md",
+    "Notas/Comportamentos éticos e compliance.md",
+    "Notas/Conhecimentos e Comportamentos Digitais.md",
+    "Notas/CD Tópico 6.md",
+    "Notas/CD Tópico 5.md",
     "Notas/Conhecimentos Específicos.md",
+    "Notas/Port Tópico 14.md",
+    "Notas/Port Tópico 15.md",
+    "Notas/Noções de Probabilidade e Estatística.md",
+    "Notas/PE Tópico 4.md",
+    "Notas/Tecnologia da Informação.md",
     "Notas/Port Tópico 13.md",
     "PDF Descart/939231_1.pdf",
     "Notas/XML, XSLT, UDDI, WSDL e SOAP.md",
@@ -180,12 +186,6 @@
     "Image Descart/Pasted image 20240313174327.png",
     "Image Descart/Pasted image 20240313174310.png",
     "Image Descart/Pasted image 20240313173958.png",
-    "Notas/Conhecimentos e Comportamentos Digitais.md",
-    "Notas/CD Tópico 5.md",
-    "Notas/PE Tópico 3.md",
-    "Notas/Inglês.md",
-    "Notas/Matemática Financeira.md",
-    "Notas/Matemática FInanceira Tópicos Gerais.md",
     "Excalidraw",
     "PDF Descart/Simuladin-Ética-Compliance.pdf",
     "PDF Descart/Simuladin-TI9.pdf",
