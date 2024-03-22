@@ -18,3 +18,6 @@ https://www.mapadaprova.com.br/questoes/caixa-economica-federal/tecnologia-da-in
 - [[T.I Tópico 2]]
 - [[T.I Tópico 3]]
 - [[T.I Tópico 4]]
+-  [[T.I Tópico 5]]
+-  [[T.I Tópico 6]]
+-  [[T.I Tópico 7]]
