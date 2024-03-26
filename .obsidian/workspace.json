@@ -11,8 +11,12 @@
             "id": "7ad9337bbedd6dce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -139,8 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afe0c1c9182a4c18",
+  "active": "7ad9337bbedd6dce",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "PDF Descart/tsetup-x64.4.15.2.exe",
+    "PDF Descart/Currículo -.pdf",
+    "Notas/T.I Tópico 6.md",
+    "Notas/T.I Tópico 5.md",
+    "Notas/Princípios e técnicas de teste de software.md",
+    "Notas/Modelagem conceitual de dados.md",
+    "Notas/Desenvolvimento dirigido por testes.md",
+    "Notas/Controle da qualidade estático.md",
+    "Notas/Bancos de dados.md",
+    "Image Descart/Pasted image 20240322152044.png",
+    "Image Descart/Pasted image 20240322152031.png",
+    "Image Descart/Pasted image 20240322152014.png",
+    "Image Descart/Pasted image 20240322151846.png",
+    "Image Descart/Pasted image 20240322151800.png",
+    "Image Descart/Pasted image 20240322114549.png",
+    "Image Descart/Pasted image 20240322114533.png",
+    "Image Descart/Pasted image 20240322114517.png",
+    "Image Descart/Pasted image 20240322114322.png",
+    "Image Descart/Pasted image 20240322114306.png",
     "Notas/Port Tópico 15.md",
     "Notas/Português.md",
     "Notas/Port Tópico 17.md",
@@ -160,32 +188,12 @@
     "PDF Descart/939231_1.pdf",
     "Notas/XML, XSLT, UDDI, WSDL e SOAP.md",
     "Notas/T.I Tópico 4.md",
-    "Notas/Sistemas Distribuídos e Microsserviços.md",
-    "Notas/Servlets, JSF, JSP, Ajax.md",
-    "Notas/SOA (Arquitetura Orientada a Serviços) e Web Services (Quarkus).md",
-    "Notas/Padrões REST.md",
-    "Notas/Padrões HTML 4.01, HTTP Response Status Code, XHTML 1.0.md",
-    "Notas/Interoperabilidade de Sistemas.md",
-    "Notas/Desenvolvimento de Software para a Web.md",
-    "Notas/Arquitetura e Padrões de Projeto Java EE 8.md",
-    "Image Descart/Pasted image 20240313174921.png",
-    "Image Descart/Pasted image 20240313174821.png",
-    "Image Descart/Pasted image 20240313174748.png",
-    "Image Descart/Pasted image 20240313174725.png",
-    "Image Descart/Pasted image 20240313174645.png",
-    "Image Descart/Pasted image 20240313174627.png",
-    "Image Descart/Pasted image 20240313174345.png",
-    "Image Descart/Pasted image 20240313174327.png",
-    "Image Descart/Pasted image 20240313174310.png",
-    "Image Descart/Pasted image 20240313173958.png",
     "Excalidraw",
     "PDF Descart/Simuladin-Ética-Compliance.pdf",
     "PDF Descart/Simuladin-TI9.pdf",
     "PDF Descart/Simuladin-TI8.pdf",
     "PDF Descart/Simuladin-TI7.pdf",
     "PDF Descart/Simuladin-TI6.pdf",
-    "PDF Descart/Simuladin-TI5.pdf",
-    "PDF Descart/Simuladin-TI4.pdf",
-    "PDF Descart/Simuladin-TI3.pdf"
+    "PDF Descart/Simuladin-TI5.pdf"
   ]
 }
