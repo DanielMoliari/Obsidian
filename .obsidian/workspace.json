@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "29183415d476b09b",
+        "id": "1d145d42c72d5d63",
         "type": "tabs",
         "children": [
           {
-            "id": "8d06631abc1fac98",
+            "id": "7ad9337bbedd6dce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Port Tópico 15.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Port Tópico 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Port Tópico 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/Port Tópico 15.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d06631abc1fac98",
+  "active": "afe0c1c9182a4c18",
   "lastOpenFiles": [
+    "Notas/Port Tópico 15.md",
     "Notas/Português.md",
     "Notas/Port Tópico 17.md",
     "Notas/Conhecimentos Básicos.md",
@@ -160,7 +153,6 @@
     "Notas/CD Tópico 5.md",
     "Notas/Conhecimentos Específicos.md",
     "Notas/Port Tópico 14.md",
-    "Notas/Port Tópico 15.md",
     "Notas/Noções de Probabilidade e Estatística.md",
     "Notas/PE Tópico 4.md",
     "Notas/Tecnologia da Informação.md",
