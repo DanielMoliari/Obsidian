@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "33cedd05218bd6c9",
+        "id": "4a897166eb8a8726",
         "type": "tabs",
         "children": [
           {
-            "id": "eb9cbea7b860cbe1",
+            "id": "a07ab23328331893",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb9cbea7b860cbe1",
+  "active": "a07ab23328331893",
   "lastOpenFiles": [
+    "Notas/PE Tópico 5.md",
+    "Notas/Noções de Probabilidade e Estatística.md",
+    "Notas/Conhecimentos Básicos.md",
+    "CEF.md",
     "conflict-files-obsidian-git.md",
     "PDF Descart/tsetup-x64.4.15.2.exe",
     "PDF Descart/Currículo -.pdf",
@@ -164,8 +168,6 @@
     "Notas/Port Tópico 15.md",
     "Notas/Português.md",
     "Notas/Port Tópico 17.md",
-    "Notas/Conhecimentos Básicos.md",
-    "CEF.md",
     "Notas/Ética Geral.md",
     "Notas/Comportamentos éticos e compliance.md",
     "Notas/Conhecimentos e Comportamentos Digitais.md",
@@ -173,13 +175,11 @@
     "Notas/CD Tópico 5.md",
     "Notas/Conhecimentos Específicos.md",
     "Notas/Port Tópico 14.md",
-    "Notas/Noções de Probabilidade e Estatística.md",
     "Notas/PE Tópico 4.md",
     "Notas/Tecnologia da Informação.md",
     "Notas/Port Tópico 13.md",
     "PDF Descart/939231_1.pdf",
     "Notas/XML, XSLT, UDDI, WSDL e SOAP.md",
-    "Notas/T.I Tópico 4.md",
     "Excalidraw",
     "PDF Descart/Simuladin-Ética-Compliance.pdf",
     "PDF Descart/Simuladin-TI9.pdf",
