@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eec8a35737ef5d44",
+        "id": "ee8fc5630b7420fe",
         "type": "tabs",
         "children": [
           {
-            "id": "c27a04debc007228",
+            "id": "2fb35926a6ddf879",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "346a1b36097be51a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 227.5
   },
   "right": {
     "id": "4a7bb3742d17abfe",
@@ -138,44 +149,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c27a04debc007228",
+  "active": "346a1b36097be51a",
   "lastOpenFiles": [
-    "Notas/T.I Tópico 6.md",
-    "Notas/Bancos de dados.md",
+    "Notas/T.I Tópico 13.md",
     "Notas/Tecnologia da Informação.md",
-    "Notas/T.I Tópico 4.md",
-    "Notas/T.I Tópico 5.md",
-    "Notas/Desenvolvimento dirigido por testes.md",
-    "Notas/Princípios e técnicas de teste de software.md",
-    "Notas/Controle da qualidade estático.md",
+    "T.I Tópico 10.md",
     "Notas/Conhecimentos Específicos.md",
     "CEF.md",
-    "README.md",
+    "Notas/Conhecimentos Básicos.md",
+    "Notas/T.I Tópico 6.md",
+    "Notas/Windows 10.md",
+    "Notas/Técnicas e Cerimônias para Colaboração e Integração do Time Ágil.md",
+    "Notas/Técnica para Estimativa de Escopo.md",
+    "Notas/Tratamento de Débito Técnico e Incidentes.md",
+    "Notas/T.I Tópico 9.md",
+    "Notas/T.I Tópico 8.md",
+    "Notas/T.I Tópico 7.md",
     "Notas/T.I Tópico 15.md",
     "Notas/T.I Tópico 14.md",
-    "Notas/T.I Tópico 13.md",
     "Notas/T.I Tópico 12.md",
-    "Notas/Modelo de Acessibilidade do Governo Eletrônico.md",
-    "Notas/Ferramentas de Gestão de Conteúdos.md",
-    "Notas/T.I Tópico 11.md",
-    "Notas/Portais corporativos.md",
-    "Notas/T.I Tópico 10.md",
-    "Notas/Segurança Compartilhada.md",
-    "Notas/Computação Serverless.md",
-    "Notas/Arquiteturas de software.md",
-    "Notas/Estratégias de migração de aplicações para o ambiente de nuvem.md",
-    "Notas/Governança.md",
+    "Notas/Armazenamento e Representação de Dados.md",
     "Notas/Análise por pontos de função.md",
-    "Image Descart/Pasted image 20240402113642.png",
+    "Notas/Agilidade.md",
     "Image Descart/Pasted image 20240402114216.png",
     "Image Descart/Pasted image 20240402114158.png",
     "Image Descart/Pasted image 20240402114036.png",
@@ -185,15 +189,22 @@
     "Image Descart/Pasted image 20240402113820.png",
     "Image Descart/Pasted image 20240402113801.png",
     "Image Descart/Pasted image 20240402113730.png",
-    "Técnicas",
-    "PDF Descart/tsetup-x64.4.15.2.exe",
-    "PDF Descart/Currículo -.pdf",
-    "PDF Descart/939231_1.pdf",
+    "Image Descart/Pasted image 20240402113703.png",
+    "Notas/Modelagem conceitual de dados.md",
+    "Notas/Bancos de dados.md",
+    "Notas/Controle da qualidade estático.md",
+    "Notas/T.I Tópico 5.md",
+    "Notas/Desenvolvimento dirigido por testes.md",
+    "Notas/Princípios e técnicas de teste de software.md",
+    "PDF Descart/Prova 2021.pdf",
     "Excalidraw",
-    "PDF Descart/Simuladin-Ética-Compliance.pdf",
+    "PDF Descart/Gabarito Prova 2021.pdf",
+    "PDF Descart/Gabarito Prova 2021.pdf.opdownload",
+    "PDF Descart/Prova 2021.pdf.opdownload",
+    "PDFs/Aleatórios/Bizus e Mnemonicos.pdf",
     "PDF Descart/Simuladin-TI9.pdf",
-    "PDF Descart/Simuladin-TI8.pdf",
-    "PDF Descart/Simuladin-TI7.pdf",
-    "PDF Descart/Simuladin-TI6.pdf"
+    "PDF Descart/Redação Conteudo Aula.pdf",
+    "PDF Descart/Simuladin-Ética-Compliance.pdf",
+    "ConteudoWill/curso-290403-trilha-00-499b-completo.pdf"
   ]
 }
