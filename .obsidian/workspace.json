@@ -11,8 +11,12 @@
             "id": "a07ab23328331893",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Português.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
     "id": "4a7bb3742d17abfe",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Português.md"
+              }
             }
           }
         ]
@@ -141,10 +149,10 @@
   },
   "active": "a07ab23328331893",
   "lastOpenFiles": [
-    "Notas/PE Tópico 5.md",
-    "Notas/Noções de Probabilidade e Estatística.md",
     "Notas/Conhecimentos Básicos.md",
     "CEF.md",
+    "Notas/PE Tópico 5.md",
+    "Notas/Noções de Probabilidade e Estatística.md",
     "conflict-files-obsidian-git.md",
     "PDF Descart/tsetup-x64.4.15.2.exe",
     "PDF Descart/Currículo -.pdf",
