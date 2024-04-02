@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notas/Tecnologia da Informação.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notas/Tecnologia da Informação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notas/Tecnologia da Informação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notas/Tecnologia da Informação.md"
               }
             }
           }
@@ -149,7 +149,17 @@
   },
   "active": "c27a04debc007228",
   "lastOpenFiles": [
+    "Notas/T.I Tópico 6.md",
+    "Notas/Bancos de dados.md",
     "Notas/Tecnologia da Informação.md",
+    "Notas/T.I Tópico 4.md",
+    "Notas/T.I Tópico 5.md",
+    "Notas/Desenvolvimento dirigido por testes.md",
+    "Notas/Princípios e técnicas de teste de software.md",
+    "Notas/Controle da qualidade estático.md",
+    "Notas/Conhecimentos Específicos.md",
+    "CEF.md",
+    "README.md",
     "Notas/T.I Tópico 15.md",
     "Notas/T.I Tópico 14.md",
     "Notas/T.I Tópico 13.md",
@@ -165,16 +175,6 @@
     "Notas/Estratégias de migração de aplicações para o ambiente de nuvem.md",
     "Notas/Governança.md",
     "Notas/Análise por pontos de função.md",
-    "Notas/Conhecimentos Específicos.md",
-    "CEF.md",
-    "Notas/Processos conceitos básicos, comunicação, sincronização e escalonamento.md",
-    "Notas/T.I Tópico 9.md",
-    "Notas/Windows 10.md",
-    "Notas/Gerência de memória partições fixas e variáveis, realocação, memória virtual, swapping, sistemas de arquivos.md",
-    "Notas/Funções e estrutura de um sistema operacional.md",
-    "Notas/Modos de Endereçamento.md",
-    "Notas/Subsistema de Entrada AND Saída e Dispositivos de Armazenamento Secundário.md",
-    "Notas/T.I Tópico 8.md",
     "Image Descart/Pasted image 20240402113642.png",
     "Image Descart/Pasted image 20240402114216.png",
     "Image Descart/Pasted image 20240402114158.png",

@@ -19,4 +19,4 @@
     - **Teste de aceitação e de aprovação:** Garante que o software atenda aos critérios de aceitação definidos pelo cliente ou usuário final antes de ser lançado.
 3. **[[Desenvolvimento dirigido por testes]]:**
     
-    - Uma abordagem de desenvolvimento de software na qual testes automatizados são escritos antes do código de produção. Isso ajuda a garantir que o código produzido atenda aos requisitos definidos pelos testes e facilita a detecção precoce de problemas.1. 
+    - Uma abordagem de desenvolvimento de software na qual testes automatizados são escritos antes do código de produção. Isso ajuda a garantir que o código produzido atenda aos requisitos definidos pelos testes e facilita a detecção precoce de problemas.
