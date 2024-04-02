@@ -4,7 +4,7 @@
 
 1. **[[Bancos de dados]]**: Um banco de dados é um sistema organizado para armazenar e recuperar informações. Eles são utilizados para gerenciar grandes quantidades de dados de forma eficiente e segura.
     
-2. **[[Modelagem conceitual de dados]] - Abordagem Entidade-Relacionamento (ER)**: É uma técnica para modelar os dados de um sistema usando entidades (objetos do mundo real) e seus relacionamentos. Ajuda a entender as necessidades de informação do sistema antes de implementar o banco de dados.
+2. **Modelagem Conceitual de Dados**: É uma técnica para modelar os dados de um sistema usando entidades (objetos do mundo real) e seus relacionamentos. Ajuda a entender as necessidades de informação do sistema antes de implementar o banco de dados.
     
 3. **Modelo Relacional de Dados**: É uma abordagem para organizar dados em tabelas relacionadas. Usa conceitos como chaves primárias e estrangeiras para representar relacionamentos entre entidades.
     
@@ -12,16 +12,16 @@
     
 5. **Sistemas Gerenciadores de Bancos de Dados (SGBD)**: São softwares projetados para criar, manter e gerenciar bancos de dados. Eles fornecem uma interface para os usuários interagirem com o banco de dados, bem como mecanismos para garantir segurança e integridade dos dados.
     
-6. **Linguagem SQL**: SQL (Structured Query Language) é uma linguagem de programação utilizada para realizar operações em bancos de dados relacionais, como consultas, inserções, atualizações e exclusões de dados.
+6. **[[Linguagem SQL]]**: SQL (Structured Query Language) é uma linguagem de programação utilizada para realizar operações em bancos de dados relacionais, como consultas, inserções, atualizações e exclusões de dados.
     
-7. **Data Warehouse**: É um repositório de dados projetado para facilitar a análise e relatórios. Armazena grandes volumes de dados de diversas fontes para suportar a tomada de decisão nas organizações.
+7. **[[Data Warehouse]]**: É um repositório de dados projetado para facilitar a análise e relatórios. Armazena grandes volumes de dados de diversas fontes para suportar a tomada de decisão nas organizações.
     
 8. **Modelagem física de dados**: Refere-se ao processo de projetar a estrutura física do data warehouse, incluindo tabelas, índices, particionamento e otimização de desempenho para garantir consultas rápidas e eficientes.
     
 9. **Dados multidimensionais**: São dados organizados em múltiplas dimensões, geralmente usados em data warehouses para análises complexas.
     
-10. **Big Data**: Refere-se a conjuntos de dados extremamente grandes e complexos, que não podem ser processados usando técnicas tradicionais de processamento de dados.
+10. **[[Big Data]]**: Refere-se a conjuntos de dados extremamente grandes e complexos, que não podem ser processados usando técnicas tradicionais de processamento de dados.
     
 11. **Fundamentos e técnicas de preparação e apresentação de dados**: Envolve o processo de limpeza, transformação e análise de dados para extrair insights úteis. A apresentação de dados refere-se à visualização e comunicação dos resultados da análise de dados.
     
-12. **Soluções de Big Data**: São ferramentas e tecnologias projetadas para lidar com os desafios específicos associados ao processamento e análise de grandes volumes de dados, como Hadoop, Spark, entre outros.
+12. **[[Soluções de Big Data]]**: São ferramentas e tecnologias projetadas para lidar com os desafios específicos associados ao processamento e análise de grandes volumes de dados, como Hadoop, Spark, entre outros.

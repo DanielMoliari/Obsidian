@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a897166eb8a8726",
+        "id": "eec8a35737ef5d44",
         "type": "tabs",
         "children": [
           {
-            "id": "a07ab23328331893",
+            "id": "c27a04debc007228",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Português.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Português.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Português.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/Português.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,53 +139,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a07ab23328331893",
+  "active": "c27a04debc007228",
   "lastOpenFiles": [
-    "Notas/Conhecimentos Básicos.md",
+    "Notas/Tecnologia da Informação.md",
+    "Notas/T.I Tópico 15.md",
+    "Notas/T.I Tópico 14.md",
+    "Notas/T.I Tópico 13.md",
+    "Notas/T.I Tópico 12.md",
+    "Notas/Modelo de Acessibilidade do Governo Eletrônico.md",
+    "Notas/Ferramentas de Gestão de Conteúdos.md",
+    "Notas/T.I Tópico 11.md",
+    "Notas/Portais corporativos.md",
+    "Notas/T.I Tópico 10.md",
+    "Notas/Segurança Compartilhada.md",
+    "Notas/Computação Serverless.md",
+    "Notas/Arquiteturas de software.md",
+    "Notas/Estratégias de migração de aplicações para o ambiente de nuvem.md",
+    "Notas/Governança.md",
+    "Notas/Análise por pontos de função.md",
+    "Notas/Conhecimentos Específicos.md",
     "CEF.md",
-    "Notas/PE Tópico 5.md",
-    "Notas/Noções de Probabilidade e Estatística.md",
-    "conflict-files-obsidian-git.md",
+    "Notas/Processos conceitos básicos, comunicação, sincronização e escalonamento.md",
+    "Notas/T.I Tópico 9.md",
+    "Notas/Windows 10.md",
+    "Notas/Gerência de memória partições fixas e variáveis, realocação, memória virtual, swapping, sistemas de arquivos.md",
+    "Notas/Funções e estrutura de um sistema operacional.md",
+    "Notas/Modos de Endereçamento.md",
+    "Notas/Subsistema de Entrada AND Saída e Dispositivos de Armazenamento Secundário.md",
+    "Notas/T.I Tópico 8.md",
+    "Image Descart/Pasted image 20240402113642.png",
+    "Image Descart/Pasted image 20240402114216.png",
+    "Image Descart/Pasted image 20240402114158.png",
+    "Image Descart/Pasted image 20240402114036.png",
+    "Image Descart/Pasted image 20240402114026.png",
+    "Image Descart/Pasted image 20240402114011.png",
+    "Image Descart/Pasted image 20240402113846.png",
+    "Image Descart/Pasted image 20240402113820.png",
+    "Image Descart/Pasted image 20240402113801.png",
+    "Image Descart/Pasted image 20240402113730.png",
+    "Técnicas",
     "PDF Descart/tsetup-x64.4.15.2.exe",
     "PDF Descart/Currículo -.pdf",
-    "Notas/T.I Tópico 6.md",
-    "Notas/T.I Tópico 5.md",
-    "Notas/Princípios e técnicas de teste de software.md",
-    "Notas/Modelagem conceitual de dados.md",
-    "Notas/Desenvolvimento dirigido por testes.md",
-    "Notas/Controle da qualidade estático.md",
-    "Notas/Bancos de dados.md",
-    "Image Descart/Pasted image 20240322152044.png",
-    "Image Descart/Pasted image 20240322152031.png",
-    "Image Descart/Pasted image 20240322152014.png",
-    "Image Descart/Pasted image 20240322151846.png",
-    "Image Descart/Pasted image 20240322151800.png",
-    "Image Descart/Pasted image 20240322114549.png",
-    "Image Descart/Pasted image 20240322114533.png",
-    "Image Descart/Pasted image 20240322114517.png",
-    "Image Descart/Pasted image 20240322114322.png",
-    "Image Descart/Pasted image 20240322114306.png",
-    "Notas/Port Tópico 15.md",
-    "Notas/Português.md",
-    "Notas/Port Tópico 17.md",
-    "Notas/Ética Geral.md",
-    "Notas/Comportamentos éticos e compliance.md",
-    "Notas/Conhecimentos e Comportamentos Digitais.md",
-    "Notas/CD Tópico 6.md",
-    "Notas/CD Tópico 5.md",
-    "Notas/Conhecimentos Específicos.md",
-    "Notas/Port Tópico 14.md",
-    "Notas/PE Tópico 4.md",
-    "Notas/Tecnologia da Informação.md",
-    "Notas/Port Tópico 13.md",
     "PDF Descart/939231_1.pdf",
-    "Notas/XML, XSLT, UDDI, WSDL e SOAP.md",
     "Excalidraw",
     "PDF Descart/Simuladin-Ética-Compliance.pdf",
     "PDF Descart/Simuladin-TI9.pdf",
     "PDF Descart/Simuladin-TI8.pdf",
     "PDF Descart/Simuladin-TI7.pdf",
-    "PDF Descart/Simuladin-TI6.pdf",
-    "PDF Descart/Simuladin-TI5.pdf"
+    "PDF Descart/Simuladin-TI6.pdf"
   ]
 }
