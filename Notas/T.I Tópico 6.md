@@ -24,4 +24,4 @@
     
 11. **Fundamentos e técnicas de preparação e apresentação de dados**: Envolve o processo de limpeza, transformação e análise de dados para extrair insights úteis. A apresentação de dados refere-se à visualização e comunicação dos resultados da análise de dados.
     
-12. **[[Soluções de Big Data]]**: São ferramentas e tecnologias projetadas para lidar com os desafios específicos associados ao processamento e análise de grandes volumes de dados, como Hadoop, Spark, entre outros.
+12. **Soluções de Big Data**: São ferramentas e tecnologias projetadas para lidar com os desafios específicos associados ao processamento e análise de grandes volumes de dados, como Hadoop, Spark, entre outros.
