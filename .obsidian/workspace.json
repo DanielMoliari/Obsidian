@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md",
+                "file": "Notas/T.I Tópico 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md",
+                "file": "Notas/T.I Tópico 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md",
+                "file": "Notas/T.I Tópico 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Tecnologia da Informação.md"
+                "file": "Notas/T.I Tópico 6.md"
               }
             }
           }
@@ -149,9 +149,13 @@
   },
   "active": "c27a04debc007228",
   "lastOpenFiles": [
+    "Notas/Soluções de Big Data.md",
     "Notas/T.I Tópico 6.md",
-    "Notas/Bancos de dados.md",
+    "Notas/Big Data.md",
+    "Notas/Data Warehouse.md",
+    "Notas/Linguagem SQL.md",
     "Notas/Tecnologia da Informação.md",
+    "Notas/Bancos de dados.md",
     "Notas/T.I Tópico 4.md",
     "Notas/T.I Tópico 5.md",
     "Notas/Desenvolvimento dirigido por testes.md",
@@ -171,10 +175,6 @@
     "Notas/T.I Tópico 10.md",
     "Notas/Segurança Compartilhada.md",
     "Notas/Computação Serverless.md",
-    "Notas/Arquiteturas de software.md",
-    "Notas/Estratégias de migração de aplicações para o ambiente de nuvem.md",
-    "Notas/Governança.md",
-    "Notas/Análise por pontos de função.md",
     "Image Descart/Pasted image 20240402113642.png",
     "Image Descart/Pasted image 20240402114216.png",
     "Image Descart/Pasted image 20240402114158.png",
